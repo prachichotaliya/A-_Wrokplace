@@ -23,3 +23,10 @@ C:\Users\prach\desktop\Prachi\java\project>echo. 02-April-2007 >> hello.txt
 C:\Users\prach\desktop\Prachi\java\project>echo. Rajkot >> hello.txt
 
 C:\Users\prach\desktop\Prachi\java\project>echo. 360022 >> hello.txt
+
+C:\Users\prach\desktop\Prachi\java\project>type hello.txt
+ Prachi
+ Chotaliya
+ 02-April-2007
+ Rajkot
+ 360022
